@@ -1,1 +1,1 @@
-# angular-component-testing-vtzwcj
+# angular-component-testing
